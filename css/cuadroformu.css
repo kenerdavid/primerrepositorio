@@ -1,0 +1,25 @@
+header{
+	
+	max-width: 90%;
+	min-width: 52px;
+	padding: 30px;
+	margin-left: 50px;
+	max-height: 50%;
+	background: ;
+    padding: 20px;
+    border: 1px solid #333; 
+}
+.form .input {
+    border: 1px solid #DEDEDF;
+    padding: 0 8px;
+    border-radius: 6px;
+    width: 100%;
+    display: block;
+    outline: 0;
+    height: 40px;
+    line-height: 40px;
+    color: #333;
+}
+.form .field {
+    margin-bottom: 12px;
+}
